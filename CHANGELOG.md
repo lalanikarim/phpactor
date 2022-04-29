@@ -56,6 +56,7 @@ Improvements:
 
 Features:
 
+  - [wr] Basic support for intersections
   - [rf] Union type support for goto definition
   - [ct] Add missing PHP return types
   - [wr] Support for inference for `array_map`, and arrow and anonymous functions
